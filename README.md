@@ -6,6 +6,6 @@ this project predicts the employee salary by both linear and polynomial regresio
     1.Linear regression
     2.Polynomial Regression 
 # Metrics measured:
-  m2
+  r2 score
 
 
